@@ -25,7 +25,7 @@ SECRET_KEY = 'g5xz&gz($kudl=xlgp(lxta=lw-(-r5t@&$r9n9n-r@d=k-j8b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['34.218.244.114']
+ALLOWED_HOSTS = ['54.245.34.35']
 
 
 # Application definition
